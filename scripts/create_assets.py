@@ -44,7 +44,7 @@ def role(title,date):
 
 para('Lucas Cleminson',27,30,space=5,bold=True)
 para('Frontend Developer | Software Engineering applicant',10.4,14,color=accent,space=8)
-para('Albufeira, Portugal · <link href="mailto:cleminsonlucas4@gmail.com">cleminsonlucas4@gmail.com</link> · +351 918 629 915',8.7,12,space=3)
+para('Albufeira, Portugal · <link href="mailto:lucasguerreiroc@outlook.com">lucasguerreiroc@outlook.com</link> · +351 918 629 915',8.7,12,space=3)
 para('<link href="https://github.com/Lucas-syss">github.com/Lucas-syss</link> · <link href="https://www.linkedin.com/in/lucas-cleminson">linkedin.com/in/lucas-cleminson</link>',8.7,12,space=1)
 
 section('Professional profile')

@@ -15,7 +15,7 @@ export interface Project {
 
 export const profile = {
   name: "Lucas Cleminson",
-  email: "cleminsonlucas4@gmail.com",
+  email: "lucasguerreiroc@outlook.com",
   github: "https://github.com/Lucas-syss",
   linkedin: "https://www.linkedin.com/in/lucas-cleminson",
 };
