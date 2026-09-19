@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lucas-syss.github.io/web_pages-portfolio/sitemap.xml
